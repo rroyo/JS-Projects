@@ -20,7 +20,7 @@
   </a>
   <h3 align="center">Ramon's <i>JS Projects</i></h3>
   <p>
-    On this repo I'll be publishing all the code for a series of HTML/CSS/JS practice projects I'll be doing to hone my skills and build a portfolio.
+    On this repo I'll be publishing all the HTML/CSS/JS practice projects I'll be doing to hone my skills and build a portfolio.
   </p>
   <img src="https://i.ibb.co/4fS4cvT/futuristic-city.jpg" alt="Drawing of a Futuristic City Sunset" border="0">
 </div>
