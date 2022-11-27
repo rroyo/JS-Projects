@@ -18,21 +18,12 @@
 <div align="center">
   <a href="https://github.com/rroyo/JS-Projects">
   </a>
-  <h3 align="center">Ramon's <i>The Complete JavaScript Course 2023: From Zero to Expert!</i> Udemy course submits</h3>
-<img src="" alt="d56d4a362be3913a35bede370b130f00" border="0">
+  <h3 align="center">Ramon's <i>JS Projects</i></h3>
+<img src="https://i.ibb.co/wdqF1Bv/d56d4a362be3913a35bede370b130f00.jpg" alt="Drawing of a Futuristic City Sunset" border="0">
   <p align="center">
-    This are my submits from working on <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann's</a> fabulous <a href="https://www.udemy.com/course/the-complete-javascript-course/">JavaScript course</a>.
+    On this repo I'll be publishing all the code for a series of HTML/CSS/JS practice projects I'll be doing to hone my skills and build a portfolio.
   </p>
 </div>
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[JS Project](https://github.com/rroyo/JS-Projects)
-
-On this repo I'll be publishing all the code for a series of HTML/CSS/JS practice projects I'll be doing to hone my skills and build a portfolio.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- PROJECTS -->
 ## Projects
