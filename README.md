@@ -17,10 +17,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/rroyo/JS-Projects">
-    <img src="https://i.ibb.co/DGZsmdS/JS.png" alt="JS logo on a screen" width="200" height="200">    
   </a>
   <h3 align="center">Ramon's <i>The Complete JavaScript Course 2023: From Zero to Expert!</i> Udemy course submits</h3>
-
+<img src="" alt="d56d4a362be3913a35bede370b130f00" border="0">
   <p align="center">
     This are my submits from working on <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann's</a> fabulous <a href="https://www.udemy.com/course/the-complete-javascript-course/">JavaScript course</a>.
   </p>
