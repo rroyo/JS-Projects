@@ -16,8 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rroyo/JS-Projects">
-  </a>
+  <a href="https://github.com/rroyo/JS-Projects"></a>
   <h3 align="center">Ramon's <i>JS Projects</i></h3>
   <p align="justify">
     On this repo I'll be publishing all the HTML/CSS/JS practice projects I'll be doing to hone my skills and build a portfolio.
