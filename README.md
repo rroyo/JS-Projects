@@ -19,10 +19,10 @@
   <a href="https://github.com/rroyo/JS-Projects">
   </a>
   <h3 align="center">Ramon's <i>JS Projects</i></h3>
-<img src="https://i.ibb.co/wdqF1Bv/d56d4a362be3913a35bede370b130f00.jpg" alt="Drawing of a Futuristic City Sunset" border="0">
   <p align="center">
     On this repo I'll be publishing all the code for a series of HTML/CSS/JS practice projects I'll be doing to hone my skills and build a portfolio.
   </p>
+  <img src="https://i.ibb.co/4fS4cvT/futuristic-city.jpg" alt="Drawing of a Futuristic City Sunset" border="0">
 </div>
 
 <!-- PROJECTS -->
