@@ -27,6 +27,9 @@
 
 <!-- PROJECTS -->
 ## Projects
+<hr>
+
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
