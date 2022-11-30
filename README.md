@@ -1,7 +1,10 @@
+<div align="center">
+
 [![LinkedIn][linkedin-shield]][linkedin-url]&nbsp;&nbsp;&nbsp;
 <a href='mailto&#58;&#114;%72%40&#114;&#97;%6Do&#110;&#114;o%79o&#46;&#99;o&#109;'>![email-shielded]</a>&nbsp;&nbsp;&nbsp;
 [![Twitter][twitter-shield]][twitter-url]
 
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
