@@ -23,8 +23,8 @@
 ## Projects
 <hr>
 
-2022/12/02 Infinite Scroll - [Github](https://github.com/rroyo/JS-Projects-infinite-scroll) | [Live](https://rroyo.github.io/JS-Projects-quote-generator/):
-I practiced making calls to an API and how to tweet content from a webpage. I used a loader for the first time! It's much less complicated than I thought.
+2022/12/02 Infinite Scroll - [Github](https://github.com/rroyo/JS-Projects-infinite-scroll) | [Live](https://rroyo.github.io/JS-Projects-infinite-scroll/):
+I practiced making calls to an API. Did some adjustments for a better user experience, like not bloating the initial photos download. Added some responsive CSS.
 
 2022/11/28 Quote Generator - [Github](https://github.com/rroyo/JS-Projects-quote-generator) | [Live](https://rroyo.github.io/JS-Projects-quote-generator/):
 I practiced making calls to an API and how to tweet content from a webpage. I used a loader for the first time! It's much less complicated than I thought.
