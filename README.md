@@ -23,6 +23,8 @@
 ## Projects
 <hr>
 
+<b>2022/12/05 Joke Teller</b> - [Github](https://github.com/rroyo/JS-Projects-joke-teller) | [Live](https://rroyo.github.io/JS-Projects-joke-teller): I practiced making calls to two API. I learned to use audio elements. I added a text area where the joke is slowly typed using an interval, as it's being cast.
+
 <b>2022/12/02 Infinite Scroll</b> - [Github](https://github.com/rroyo/JS-Projects-infinite-scroll) | [Live](https://rroyo.github.io/JS-Projects-infinite-scroll/):
 I practiced making calls to an API. Did some adjustments for a better user experience, like not bloating the initial photos download. Added some responsive CSS.
 
